@@ -291,7 +291,7 @@ class CI_Session {
 			$params['cookie_path'],
 			$params['cookie_domain'],
 			$params['cookie_secure'],
-			FALSE // HttpOnly; Yes, this is intentional and not configurable for security reasons
+			TRUE // HttpOnly; Yes, this is intentional and not configurable for security reasons
 		);
 
 		if (empty($expiration))
