@@ -9,8 +9,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <link href="<?php echo base_url('/assets/css/style.css'); ?>" rel="stylesheet">
 <script src="<?php echo base_url('/assets/js/script.js'); ?>" rel="stylesheet"></script>
-<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <!------ Include the above in your HEAD tag ---------->
 
 <style type="text/css">

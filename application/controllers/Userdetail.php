@@ -216,7 +216,7 @@ class Userdetail extends CI_Controller {
 			     return redirect('Userdetail/replens');
 
 			    }else{
-			     $this->session->set_flashdata('feedback',"Ivalid User detail.");
+			     $this->session->set_flashdata('feedback',"Invalid User detail.");
 			     $this->session->set_flashdata('feedback_class','alert-danger');
 			     $this->load->view('login_form',$data);
 			    }
