@@ -1,0 +1,56 @@
+[21-May-2018 03:28:30 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 30
+[21-May-2018 03:28:47 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 30
+[21-May-2018 03:28:58 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 30
+[21-May-2018 07:46:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 28
+[23-May-2018 02:00:35 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 36
+[25-May-2018 06:03:14 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 53
+[25-May-2018 06:03:38 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 53
+[25-May-2018 07:00:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 122
+[29-May-2018 05:12:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 40
+[29-May-2018 05:16:37 America/Chicago] PHP Fatal error:  Call to undefined function iseet() in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 80
+[29-May-2018 05:17:16 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 80
+[29-May-2018 05:17:19 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 80
+[29-May-2018 05:18:15 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 80
+[29-May-2018 05:18:17 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 80
+[29-May-2018 05:18:20 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 80
+[29-May-2018 06:07:28 America/Chicago] PHP Fatal error:  Call to undefined function msort() in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 155
+[29-May-2018 06:09:20 America/Chicago] PHP Fatal error:  Call to undefined function msort() in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 155
+[29-May-2018 06:17:22 America/Chicago] PHP Fatal error:  Call to undefined method User_model::usort() in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 155
+[30-May-2018 00:49:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/laundrii/public_html/replen.io/CI/application/views/home_page.php on line 322
+[06-Jun-2018 04:44:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/laundrii/public_html/replen.io/CI/application/controllers/Fetchdata.php on line 446
+[06-Jun-2018 04:50:16 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home2/laundrii/public_html/replen.io/CI/application/controllers/Fetchdata.php on line 358
+[07-Jun-2018 00:46:14 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home2/laundrii/public_html/replen.io/CI/application/controllers/Fetchdata.php on line 360
+[07-Jun-2018 01:16:08 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/laundrii/public_html/replen.io/CI/application/controllers/Fetchdata.php on line 366
+[07-Jun-2018 05:38:38 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 259
+[11-Jun-2018 05:13:34 America/Chicago] PHP Fatal error:  Call to undefined method User_model::msort() in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 155
+[11-Jun-2018 05:13:54 America/Chicago] PHP Fatal error:  Call to undefined method User_model::msort() in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 155
+[11-Jun-2018 06:22:51 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 51
+[11-Jun-2018 06:22:57 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 51
+[11-Jun-2018 07:13:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 173
+[11-Jun-2018 07:14:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 173
+[11-Jun-2018 07:14:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 173
+[11-Jun-2018 07:14:43 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 173
+[11-Jun-2018 07:39:54 America/Chicago] PHP Fatal error:  Call to undefined method User_model::msort() in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 110
+[12-Jun-2018 02:52:22 America/Chicago] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 453
+[12-Jun-2018 03:40:16 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/laundrii/public_html/replen.io/CI/application/controllers/Test.php on line 18
+[12-Jun-2018 05:11:12 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 372
+[12-Jun-2018 05:11:25 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 372
+[12-Jun-2018 05:11:39 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 372
+[12-Jun-2018 05:31:17 America/Chicago] PHP Fatal error:  Call to undefined method User_model::insertAmazonData() in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 433
+[12-Jun-2018 05:35:33 America/Chicago] PHP Fatal error:  Call to a member function deleteOldAmazonOrder() on a non-object in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 592
+[12-Jun-2018 05:44:05 America/Chicago] PHP Fatal error:  Call to a member function deleteOldAmazonOrder() on a non-object in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 592
+[12-Jun-2018 08:04:03 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 743
+[12-Jun-2018 08:06:51 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 743
+[12-Jun-2018 08:06:59 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 743
+[12-Jun-2018 08:07:05 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 743
+[13-Jun-2018 01:53:36 America/Chicago] PHP Fatal error:  Call to undefined method Tablescript::insertAmazonData() in /home2/laundrii/public_html/replen.io/CI/application/controllers/Fetchdata.php on line 83
+[13-Jun-2018 01:53:59 America/Chicago] PHP Fatal error:  Call to undefined method Tablescript::insertAmazonData() in /home2/laundrii/public_html/replen.io/CI/application/controllers/Fetchdata.php on line 83
+[13-Jun-2018 01:54:21 America/Chicago] PHP Fatal error:  Call to undefined method Tablescript::insertAmazonData() in /home2/laundrii/public_html/replen.io/CI/application/controllers/Fetchdata.php on line 83
+[13-Jun-2018 01:55:05 America/Chicago] PHP Fatal error:  Call to undefined method Tablescript::insertAmazonData() in /home2/laundrii/public_html/replen.io/CI/application/controllers/Fetchdata.php on line 83
+[14-Jun-2018 01:36:53 America/Chicago] PHP Fatal error:  Call to a member function deleteOldAmazonOrder() on a non-object in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 598
+[14-Jun-2018 03:44:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home2/laundrii/public_html/replen.io/CI/application/models/User_model.php on line 200
+[14-Jun-2018 05:45:53 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::qyery() in /home2/laundrii/public_html/replen.io/CI/application/controllers/Userdetail.php on line 719
+[20-Jun-2018 02:54:50 America/Chicago] PHP Fatal error:  Call to undefined method Tablescript::getCrediantial() in /home2/laundrii/public_html/replen.io/CI/application/controllers/FetchAlldata.php on line 17
+[20-Jun-2018 02:54:55 America/Chicago] PHP Fatal error:  Call to undefined method Tablescript::getCrediantial() in /home2/laundrii/public_html/replen.io/CI/application/controllers/FetchAlldata.php on line 17
+[20-Jun-2018 02:54:59 America/Chicago] PHP Fatal error:  Call to undefined method Tablescript::getCrediantial() in /home2/laundrii/public_html/replen.io/CI/application/controllers/FetchAlldata.php on line 17
+[20-Jun-2018 02:55:02 America/Chicago] PHP Fatal error:  Call to undefined method Tablescript::getCrediantial() in /home2/laundrii/public_html/replen.io/CI/application/controllers/FetchAlldata.php on line 17
