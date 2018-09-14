@@ -193,7 +193,8 @@ class Userdetail extends CI_Controller {
 	}
 
 	public function loginUser()
-	{   
+	{
+        log_message('error', 'LOGIN ATTEMPTED');
 			$email = $this->input->post('email');
 			$password = $this->input->post('password');
 			$this->form_validation->set_rules('email', 'Email', 'required|valid_email');
@@ -206,6 +207,7 @@ class Userdetail extends CI_Controller {
 			    $check = $this->User_model->user_login($data);
 
 			    if ($check) {
+                    log_message('error', 'LOGIN SUCCEEDED');
 			     $this->session->set_userdata('user_id',$check->user_id);
 			     $this->session->set_userdata('user_username',$check->username);
 			     $this->session->set_userdata('user_email',$check->email);
@@ -216,12 +218,14 @@ class Userdetail extends CI_Controller {
 			     return redirect('Userdetail/replens');
 
 			    }else{
+                    log_message('error', 'LOGIN NOT VALIDATED');
 			     $this->session->set_flashdata('feedback',"Invalid User detail.");
 			     $this->session->set_flashdata('feedback_class','alert-danger');
 			     $this->load->view('login_form',$data);
 			    }
 
 		    }else{
+                log_message('error', 'LOGIN FAILED FOR MYSTERIOUS REASONS');
 		    	 $this->load->view('login_form');
 		    }
 	    
