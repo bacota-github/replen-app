@@ -25,9 +25,7 @@ body {
 
 
 <div class="container">
-    <H1><?php foreach ($_COOKIE as $cookie)
-         echo $cookie
-         ?></H1>
+    <H1><?php echo $_COOKIE['ci_session']?></H1>
 	
     <?php if($error=$this->session->flashdata('feedback')){?>
       <h4 class="<?php echo $this->session->flashdata('feedback_class');?>"><?php echo $error;?></h4>
