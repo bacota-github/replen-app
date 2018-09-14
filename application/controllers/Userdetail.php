@@ -222,6 +222,8 @@ class Userdetail extends CI_Controller {
 			    }
 
 		    }else{
+			     $this->session->set_flashdata('feedback',"Login Failed.");
+			     $this->session->set_flashdata('feedback_class','alert-danger');
 		    	 $this->load->view('login_form');
 		    }
 	    
