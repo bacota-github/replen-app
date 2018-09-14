@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'replen.cluster-cmwcmact8yjp.us-west-2.rds.amazonaws.com',
+	'hostname' => 'replen2.cluster-cmwcmact8yjp.us-west-2.rds.amazonaws.com',
 	'username' => 'replen',
 	'password' => 'harigoshi',
 	'database' => 'replen',
