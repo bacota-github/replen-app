@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://replen-dev2.us-west-2.elasticbeanstalk.com/';
+$config['base_url'] = 'http://replen-dev.us-west-2.elasticbeanstalk.com/';
 
 /*
 |--------------------------------------------------------------------------
