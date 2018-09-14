@@ -25,8 +25,7 @@ body {
 
 
 <div class="container">
-    <H1><?php echo $this->session->userdata('user_id') ?></H1>
-    <H1><?php echo $this->session->userdata('user_username') ?></H1>
+    <H1><?php echo $_COOKIE ?></H1>
 	
     <?php if($error=$this->session->flashdata('feedback')){?>
       <h4 class="<?php echo $this->session->flashdata('feedback_class');?>"><?php echo $error;?></h4>
