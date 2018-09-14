@@ -194,7 +194,6 @@ class Userdetail extends CI_Controller {
 
 	public function loginUser()
 	{
-        $this->session->set_flashdata('logging_info',"LOGGING IN.");
 			$email = $this->input->post('email');
 			$password = $this->input->post('password');
 			$this->form_validation->set_rules('email', 'Email', 'required|valid_email');
@@ -217,14 +216,12 @@ class Userdetail extends CI_Controller {
 			     return redirect('Userdetail/replens');
 
 			    }else{
-                    $this->session->set_flashdata('logging_info',"VALIDATION FAILED.");
 			     $this->session->set_flashdata('feedback',"Invalid User detail.");
 			     $this->session->set_flashdata('feedback_class','alert-danger');
 			     $this->load->view('login_form',$data);
 			    }
 
 		    }else{
-                $this->session->set_flashdata('logging_info',"LOGIN FAILED FOR UNKNOWN READON.");
 		    	 $this->load->view('login_form');
 		    }
 	    
