@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'replen.cluster-cmwcmact8yjp.us-west-2.rds.amazonaws.com',
-	'username' => 'replen',
-	'password' => 'harigoshi',
-	'database' => 'replen',
+	'hostname' => 'replen.cluster-cavqdci2yuyx.us-west-2.rds.amazonaws.com',
+	'username' => 'replens',
+	'password' => 'replensdb',
+	'database' => 'replens',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
